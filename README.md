@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://oercommons.s3.amazonaws.com/media/courseware/lesson/image/6-Reasons-why-you-should-learn-Programming-1280x720.png)"  />
+  <img height="150" src="[https://oercommons.s3.amazonaws.com/media/courseware/lesson/image/6-Reasons-why-you-should-learn-Programming-1280x720.png)](https://www.codemotion.com/magazine/wp-content/uploads/2023/11/Progetto-senza-titolo-3-896x504.jpg)"  />
 </div>
 
 ###
