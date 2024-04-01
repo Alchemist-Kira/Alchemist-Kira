@@ -15,7 +15,7 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=alchemist-kira&"  />
 
-<a href="https://wakatime.com/@33f67ced-9997-4f06-b228-ad7141d0071e"><img src="https://wakatime.com/badge/user/33f67ced-9997-4f06-b228-ad7141d0071e.svg" alt="Total time coded since Jul 14 2023"  alt="wakatime" alt="Total time coded since Mar 18 2023" /></a>
+<a href="https://wakatime.com/@018e99b5-c5ce-4591-9870-0e314db465aa"><img src="https://wakatime.com/badge/user/018e99b5-c5ce-4591-9870-0e314db465aa.svg" alt="Total time coded since Jul 14 2023"  alt="wakatime" alt="Total time coded since Mar 18 2023" /></a>
 
 </div>
 
